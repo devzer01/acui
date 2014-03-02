@@ -1,0 +1,1 @@
+[29-Dec-2013 10:52:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/aaccu/public_html/acui/public/web/index.php on line 116
